@@ -10,6 +10,7 @@ import retrofit2.http.GET;
  */
 public interface ContactService {
 
+
     @GET("/contacts")
     Call<ContactJson> getContacts();
 

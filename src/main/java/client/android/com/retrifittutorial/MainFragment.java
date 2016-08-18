@@ -45,6 +45,7 @@ public class MainFragment extends BaseListMultiSelectFragmentManager<Movie, Movi
             view = inflater.inflate(R.layout.activity_main, null);
 
         }
+
         initFragment();
         getAppListMenuedActivity().setToolBarHideOnScroll(true);
 

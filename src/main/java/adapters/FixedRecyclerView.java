@@ -17,9 +17,7 @@ public class FixedRecyclerView extends RecyclerView {
     }
 
     public FixedRecyclerView(Context context, AttributeSet attrs, int defStyle) {
-
-
-           super(context, attrs, defStyle);
+            super(context, attrs, defStyle);
     }
 
     @Override

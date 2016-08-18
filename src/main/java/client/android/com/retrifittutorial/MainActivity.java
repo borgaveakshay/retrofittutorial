@@ -16,7 +16,7 @@ public class MainActivity extends GenericFragmentListMenuedActivity<MainFragment
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        onCreate(savedInstanceState,MainFragment.class,R.layout.activity_generic_menued,R.string.app_name);
+         onCreate(savedInstanceState,MainFragment.class,R.layout.activity_generic_menued,R.string.app_name);
 
 
     }

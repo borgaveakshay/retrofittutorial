@@ -11,6 +11,7 @@ import java.util.ArrayList;
  */
 public class Movie extends BaseModel{
 
+
     @SerializedName("title")
     String title;
 

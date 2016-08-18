@@ -47,7 +47,7 @@ public class MovieNewRecycler extends BaseMultiselectRecycleView< Movie , MovieN
     @Override
     public ViewHolder onCreateView(ViewGroup parent, int viewType) {
 
-        View view = inflater.inflate(R.layout.movie_layout_item ,  null);
+         View view = inflater.inflate(R.layout.movie_layout_item ,  null);
 
         ViewHolder holder = new ViewHolder(view);
         return holder;

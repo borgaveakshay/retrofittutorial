@@ -57,7 +57,7 @@ public class MovieRecyclerView extends FixedRecyclerView.Adapter<MovieRecyclerVi
         Movie movie = dataList.get(position);
 
         try {
-            Glide.with(context)
+             Glide.with(context)
                     .load(movie.getImageUrl())
                     .diskCacheStrategy(DiskCacheStrategy.ALL).placeholder(R.mipmap.ic_default_image).into(holder.movieImage);
         }

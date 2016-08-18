@@ -1,0 +1,11 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="image_width">60dp</dimen>
+    <dimen name="image_height">60dp</dimen>
+    <dimen name="movie_title">16dp</dimen>
+    <dimen name="rating_text">14dp</dimen>
+    <dimen name="release_text_size">14dp</dimen>
+</resources>

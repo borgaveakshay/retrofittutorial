@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrifitTutorial</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="rating">Rating :</string>
+    <string name="release_year">Release Year</string>
+</resources>
